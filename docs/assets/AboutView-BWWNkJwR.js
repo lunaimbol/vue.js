@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a as s}from"./index-1O-ALrkl.js";const c={},a={class:"about"},n=s("h1",null,"this is an about page",-1),_=[n];function r(i,d){return o(),t("div",a,_)}const u=e(c,[["render",r]]);export{u as default};
